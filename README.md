@@ -50,3 +50,19 @@ We tested several models to predict the outcome:
 | XGBoost       | 78%      |
 
 **Random Forest** achieved the best performance.
+
+## ✅ Key Libraries
+
+pandas
+
+numpy
+
+seaborn
+
+matplotlib
+
+scikit-learn
+
+imbalanced-learn
+
+xgboost
